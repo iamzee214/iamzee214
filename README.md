@@ -1,4 +1,4 @@
-# Hi 👋, I'm rbbing
+# Hi 👋, I'm ribbing
 
 
 ### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
