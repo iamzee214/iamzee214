@@ -1,4 +1,4 @@
-# GM, I'm Zayn but I go by Z mostly, dis is my profile. TG: @neverafkzayn
+# GM, I'm Zayn but I go by Z mostly. TG: @neverafkzayn
 
 ### If you're reading this, have a nice day \(•◡•)/
 
