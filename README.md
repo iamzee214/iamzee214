@@ -9,16 +9,16 @@
 
 Dev profiles are kinda cringe but if you're interested, virtually anything possible to create on solana, I can build. Virtually anything possible to create with AI, I can build. Below is a small list of some of the more relevant parts of my avg tech stack when creating a complex crypto AI product.
 
->Building agent-powered bots using LangChain + GPT 
->Custom inference microservices (TorchServe / TensorFlow serving)
->Edge-AI on WASM: running small models in Solana programs
->PyTorch, TensorFlow, Hugging Face Transformers
->LangChain, LlamaIndex, Haystack for agents
->scikit-learn, XGBoost, LightGBM for classic ML
->Docker + Kubernetes for scalable model serving
->MLflow or Weights & Biases for experiment tracking
->ONNX exports for cross-environment compatibility
->Normie tech stack shit goes without saying
+- Building agent-powered bots using LangChain + GPT
+- Custom inference microservices (TorchServe / TensorFlow serving)
+- Edge-AI on WASM: running small models in Solana programs
+- PyTorch, TensorFlow, Hugging Face Transformers
+- LangChain, LlamaIndex, Haystack for agents
+- scikit-learn, XGBoost, LightGBM for classic ML
+- Docker + Kubernetes for scalable model serving
+- MLflow or Weights & Biases for experiment tracking
+- ONNX exports for cross-environment compatibility
+- Normie tech stack shit goes without saying
 
 I might speak a bit like an imbecile but it's a small price to pay if you are blessed by god and get the chance to work w/ me ╭∩╮(-_-)╭∩╮
 
