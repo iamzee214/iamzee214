@@ -2,9 +2,9 @@
 
 ### If you're reading this, have a nice day \(•◡•)/
 
-### Perpetual basement dweller dev w/ a bleak outlook on the future of life w.r.t AI | Been creating *stuff* for 10+ years now & have built all sorts of weird shit in that time. Over the last few years I predominantly spent time creating crypto trading software & SMM AI tools. 
+Perpetual basement dweller dev w/ a bleak outlook on the future of life w.r.t AI | Been creating *stuff* for 10+ years now & have built all sorts of weird shit in that time. Over the last few years I predominantly spent time creating crypto trading software & SMM AI tools. 
 
-### Most of my time currently is spent on my new baby, Juice, allowing twitter users to fork their personalities & deploy them as AI agents who tweet for them from their account 24/7. Doing my part in contributing to the AI takeover 🤝.
+Most of my time currently is spent on my new baby, **Juice**, allowing twitter users to fork their personalities & deploy them as AI agents who tweet for them from their account 24/7. Doing my part in contributing to the AI takeover 🤝.
 
 Dev profiles are kinda cringe but if you're interested, virtually anything possible to create on solana, I can build. Virtually anything possible to create with AI, I can build. Below is a small list of some of the more relevant parts of my avg tech stack when creating a complex crypto AI product.
 
